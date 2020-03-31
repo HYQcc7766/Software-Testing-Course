@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8645a182-5c5e-46e1-b906-3262402d2ea0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWM7M5jrPRuJsfDVymwnmmnCQe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test/com/lsc" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21176471" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lsc" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hyq" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/com/lsc" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="C:\Users\lsc99\Desktop\Lab2\lib" />
+      <recent name="C:\Users\lsc99\Desktop\Lab2\test" />
+      <recent name="C:\Users\lsc99\Desktop\Lab2\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources/driver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LocatorTest">
+    <configuration name="Locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hyq.Locator" />
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lsc.Main" />
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorTest " type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lsc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hyq" />
+      <option name="MAIN_CLASS_NAME" value="com.hyq.LocatorTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hyq" />
+      <option name="MAIN_CLASS_NAME" value="com.hyq.LocatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorTest.getAndJudgeResult" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hyq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hyq" />
+      <option name="MAIN_CLASS_NAME" value="com.hyq.LocatorTest" />
+      <option name="METHOD_NAME" value="getAndJudgeResult" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LocatorTest" />
+        <item itemvalue="JUnit.LocatorTest " />
+        <item itemvalue="JUnit.LocatorTest.getAndJudgeResult" />
+        <item itemvalue="Application.Locator" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8645a182-5c5e-46e1-b906-3262402d2ea0" name="Default Changelist" comment="" />
+      <created>1584950228283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584950228283</updated>
+      <workItem from="1584950232716" duration="15566000" />
+      <workItem from="1585043493622" duration="4126000" />
+      <workItem from="1585387073902" duration="907000" />
+      <workItem from="1585388450106" duration="4000" />
+      <workItem from="1585388467977" duration="3992000" />
+      <workItem from="1585455597123" duration="3270000" />
+      <workItem from="1585477874232" duration="16000" />
+      <workItem from="1585477932853" duration="2942000" />
+      <workItem from="1585492230749" duration="4757000" />
+      <workItem from="1585565692238" duration="6458000" />
+      <workItem from="1585580726617" duration="3257000" />
+      <workItem from="1585584179887" duration="1853000" />
+      <workItem from="1585618150217" duration="4124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="286" y="111" key="#LocatorTest_" timestamp="1585619058517">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="286" y="111" key="#LocatorTest_(1)" timestamp="1585619046513">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="286" y="111" key="#LocatorTest_(1)/0.0.1440.900@0.0.1440.900" timestamp="1585619046513" />
+    <state x="286" y="111" key="#LocatorTest_/0.0.1440.900@0.0.1440.900" timestamp="1585619058517" />
+    <state x="320" y="87" key="#Project_Structure" timestamp="1585453283468">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="320" y="87" key="#Project_Structure/0.23.1440.801@0.23.1440.801" timestamp="1585453283468" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1585580284002">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585580284002" />
+    <state x="569" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585387095672">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="569" y="319" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.801@0.23.1440.801" timestamp="1585387095672" />
+    <state x="486" y="316" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585623642570">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="316" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1585623642570" />
+    <state width="1398" height="70" key="GridCell.Tab.0.bottom" timestamp="1585623657430">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="70" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585623657430" />
+    <state width="1398" height="127" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1585470273477" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1585455505043" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1585388951359" />
+    <state width="1398" height="70" key="GridCell.Tab.0.center" timestamp="1585623657428">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="70" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585623657428" />
+    <state width="1398" height="127" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1585470273476" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1585455505042" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1585388951358" />
+    <state width="1398" height="70" key="GridCell.Tab.0.left" timestamp="1585623657428">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="70" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585623657428" />
+    <state width="1398" height="127" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1585470273476" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1585455505041" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1585388951358" />
+    <state width="1398" height="70" key="GridCell.Tab.0.right" timestamp="1585623657429">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="70" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585623657429" />
+    <state width="1398" height="127" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1585470273476" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1585455505043" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1585388951359" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1585387868287">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1585387868287" />
+    <state x="498" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585621953536">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="498" y="184" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1585621953536" />
+    <state x="378" y="85" width="683" height="729" key="find.popup" timestamp="1585571977696">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="85" width="683" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1585571977696" />
+    <state x="97" y="46" key="new project wizard" timestamp="1585387920123">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="97" y="46" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1585387920123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/selenium-java-2.53.0-srcs.jar!/org/openqa/selenium/firefox/FirefoxDriver.java</url>
+          <line>105</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/com/hyq/LocatorTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab2$FireboxSeleiumTest.ic" NAME="FireboxSeleiumTest Coverage Results" MODIFIED="1585043969176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lsc.*</FILTER>
+    </SUITE>
+  </component>
+</project>
