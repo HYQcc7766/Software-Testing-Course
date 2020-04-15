@@ -1,0 +1,1 @@
+MuJava_HOME=/Users/hyq/Documents/java/mujavahome
